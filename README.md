@@ -9,12 +9,17 @@ Welcome to my GitHub profile! I'm a full-stack web developer who enjoys building
 ### 💻 Backend
 - **PHP** (Laravel)
 - **NodeJS** (ExpressJS)
+- **Python** (Coming soon...)
 
 ### 🎨 Frontend
 - **Blade** (Laravel templating)
 - **Livewire** (Reactive components in Laravel)
 - **React** (SPA and modern frontend)
 - **Vue** (Lightweight, flexible frontend framework)
+
+### 📱 Mobile (Cross-platform mobile apps)
+- **React Native** 
+- **Flutter** 
 
 ---
 
