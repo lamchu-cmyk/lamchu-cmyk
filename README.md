@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a full-stack web developer who enjoys building
 ### 💻 Backend
 - **PHP** (Laravel)
 - **NodeJS** (ExpressJS)
-- **Python** (Coming soon...)
+- **Python** (OpenCV)
 
 ### 🎨 Frontend
 - **Blade** (Laravel templating)
