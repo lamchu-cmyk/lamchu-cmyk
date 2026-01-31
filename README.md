@@ -17,10 +17,6 @@ Welcome to my GitHub profile! I'm a full-stack web developer who enjoys building
 - **React** (SPA and modern frontend)
 - **Vue** (Lightweight, flexible frontend framework)
 
-### 📱 Mobile (Cross-platform mobile apps)
-- **React Native** 
-- **Flutter** 
-
 ---
 
 ## 📫 Let's Connect!
