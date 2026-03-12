@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a full-stack web developer who enjoys building
 ### 🎨 Frontend
 - **Blade** (Laravel templating)
 - **Livewire** (Reactive components in Laravel)
-- **React** (SPA and modern frontend)
+- **React** (SPA and modern frontend framework)
 - **Vue** (Lightweight, flexible frontend framework)
 
 ### 📱 Mobile (Cross-platform mobile apps)
