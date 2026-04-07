@@ -11,14 +11,14 @@ Welcome to my GitHub profile! I'm a full-stack web developer who enjoys building
 - **NodeJS** (ExpressJS, NestJS)
 - **Python** (OpenCV)
 
+### 📱 Mobile
+- **React Native**
+
 ### 🎨 Frontend
 - **Blade** (Laravel templating)
 - **Livewire** (Reactive components in Laravel)
 - **React** (SPA and modern frontend framework)
 - **Vue** (Lightweight, flexible frontend framework)
-
-### 📱 Mobile (Cross-platform mobile apps)
-- **React Native** 
 
 ---
 
