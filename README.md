@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm lamchu-cmyk
 
-Welcome to my GitHub profile! I'm a full-stack web developer who enjoys building scalable, maintainable, and efficient applications. I specialize in both backend and frontend technologies with a focus on modern development practices.
+Welcome to my GitHub profile! I'm a full-stack developer who enjoys building scalable, maintainable, and efficient applications. I specialize in both backend and frontend technologies with a focus on modern development practices.
 
 ---
 
