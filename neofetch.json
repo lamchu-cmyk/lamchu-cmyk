@@ -1,8 +1,40 @@
+
 {
   "image": "https://raw.githubusercontent.com/lamchu-cmyk/lamchu-cmyk/main/201596033-ascii.png",
   "coloredImage": true,
   "imageScale": 1,
   "removeBackground": true,
-  "imageOffsetX": 0,
-  "imageOffsetY": 0
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "fields": [
+        { "key": "Name", "value": "{{name}}" },
+        { "key": "Location", "value": "{{location}}" },
+        { "key": "Company", "value": "{{company}}" },
+        { "key": "Bio", "value": "{{bio}}" },
+        { "key": "Uptime", "value": "{{uptime}}" }
+      ]
+    },
+    {
+      "title": "- Development",
+      "fields": [
+        { "key": "Languages", "value": "{{languages}}" },
+        { "key": "Repositories", "value": "{{repos}}" },
+        { "key": "Followers", "value": "{{followers}}" }
+      ]
+    }
+  ],
+  "stats": {
+    "title": "- GitHub Stats",
+    "rows": [
+      {
+        "left": { "key": "Stars", "value": "{{stars}}" },
+        "right": { "key": "Forks", "value": "{{forks}}" }
+      },
+      {
+        "left": { "key": "Commits", "value": "{{commits}}" },
+        "right": { "key": "PRs", "value": "{{prs}}" }
+      }
+    ]
+  }
 }
